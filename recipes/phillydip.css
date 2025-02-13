@@ -1,0 +1,20 @@
+.header,
+.header2,
+.header3 {
+    color: black;
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: blanchedalmond;
+text-align: center;
+}
+
+.ulist,
+.olist{
+    text-align: center;
+    list-style-position: inside;
+    color: blue;
+}
