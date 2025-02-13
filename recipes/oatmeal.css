@@ -1,0 +1,19 @@
+.head,
+.head2,
+.head3 {
+    color: rgb(2, 2, 15);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: wavy;
+}
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.ulist,
+.olist {
+    text-align: center;
+    list-style-position: inside;
+    color: blue;
+}
