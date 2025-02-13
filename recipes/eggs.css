@@ -1,4 +1,4 @@
-.header {
+.header .header2 .header3 {
     color: black;
     text-align: center;
     text-decoration: wavy;
@@ -16,7 +16,7 @@ color: blue;
 list-style-position: inside;
 }
 .olist {
-    color: blueviolet;
+    color: rgb(226, 43, 43);
     list-style-position: inside;
 }
  
